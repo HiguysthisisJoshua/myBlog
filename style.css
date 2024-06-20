@@ -1,0 +1,16 @@
+
+h1
+{
+	color: Orange; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+	border-width: 10px;
+	border-style: ridge;
+	background-color: white;
+}
